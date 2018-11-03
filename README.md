@@ -1,6 +1,6 @@
 #AndroidResideMenu
 ------
-### 中文说明请点击 [这里][1]
+
 
 The idea of ResideMenu is from Dribble [1][2] and [2][3]. It has come true and run in iOS devices. [iOS ResideMenu][4]
 This project is the RefsideMenu Android version. The visual effect is partly referred to iOS version of ResideMenu.
